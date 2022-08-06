@@ -1,0 +1,16 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"";"Version1.0.0.";1;"";;;
+2;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+3;"REF**";"Logo-Back-SolderedFULL-20mm";1;"Logo-Front-SolderedFULL-20mm";;;
+4;"G***,G***";"Logo-Front-easyC-5mm";2;"LOGO";;;
+5;",,,,";"buzzardLabel";5;"";;;
+6;"REF**";"Logo-Front-SolderedFULL-13mm";1;"Logo-Front-SolderedFULL-13mm";;;
+7;"U1";"SOIC-14";1;"ATTINY404-SSNR";;;
+8;"R3,R2";"0603R";2;"10k";;;
+9;"R1";"SLIDER_POT";1;"SLIDER_POT";;;
+10;"K4";"DSHP03TS-S";1;"DSHP03TS-S";;;
+11;"K3,K1";"easyC-connector";2;"easyC-SMD";;;
+12;"K2";"HEADER-UPDI";1;"HEADER-UPDI";;;
+13;"H4,H3,H2,H1";"HOLE_3.2mm";4;"HOLE_3.2mm";;;
+14;"FD1";"FIDUCIAL_1MM_PASTE";1;"Fiducial_Stencil";;;
+15;"C3,C2,C1";"0603C";3;"0.1uF";;;

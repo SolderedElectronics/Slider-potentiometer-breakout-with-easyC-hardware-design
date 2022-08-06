@@ -1,0 +1,17 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**";"Version1.1.1.";1;"Version1.1.1.";;;
+2;"FD2,FD1";"FIDUCIAL_23";2;"FIDUCIAL";;;
+3;"G***,G***";"Logo-Front-easyC-5mm";2;"LOGO";;;
+4;"H4,H2,H3,H1";"HOLE_3.2mm";4;"HOLE_3.2mm";;;
+5;"R1";"SLIDER_POT";1;"SLIDER_POT";;;
+6;",,,,";"buzzardLabel";5;"";;;
+7;"REF**";"Logo-Front-SolderedFULL-13mm";1;"Logo-Front-SolderedFULL-13mm";;;
+8;"K1,K3";"easyC-connector";2;"easyC-SMD";;;
+9;"C2,C3,C1";"0603C";3;"0.1uF";;;
+10;"K2";"HEADER-UPDI";1;"HEADER-UPDI";;;
+11;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+12;"R3,R2";"0603R";2;"10k";;;
+13;"U1";"SOIC-14";1;"ATTINY404-SSNR";;;
+14;"REF**";"Logo-Back-SolderedFULL-20mm";1;"Logo-Front-SolderedFULL-20mm";;;
+15;"K4";"DSHP03TS-S";1;"DSHP03TS-S";;;
+16;"REF**";"Symbol-Front_I2C_ADDR_CUSTOM";1;"Symbol-Front_I2C_ADDR_CUSTOM";;;
